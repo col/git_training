@@ -2,7 +2,7 @@
 
 yay! hombre!
 
-Help me learn this shit
+Help me learn this stuff.
 -----
 lines 1
 -----
@@ -24,5 +24,4 @@ Blah
 ### Heading 3
 
 yadda yadda yadda
-
 
