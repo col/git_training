@@ -2,4 +2,4 @@
 
 yay!
 
-Help me learn this shit
+Help me learn this stuff. 
